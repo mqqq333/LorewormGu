@@ -11,7 +11,9 @@
 
 
 
-<img src ="./img/output.png" width="40%"><img src ="./img/dialogue.png" width="60%">
+<img src ="./img/output.png" width="60%" height = "200px"><img src ="./img/data_mixture.png" width="20%" height = "200px"><img src ="./img/data_mixture_2.png" width="20%" height = "200px">
+
+<img src ="./img/dialogue.png" width="60%" height = "300px"><img src ="./img/LLaMA3.png" width="40%" height = "300px">
 
 </div>
 
