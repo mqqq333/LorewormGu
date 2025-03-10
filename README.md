@@ -11,8 +11,7 @@
 
 
 
-
-<img src ="./assets/bg-3.webp" width="80%">
+<img src ="./img/output.png" width="40%"><img src ="./img/dialogue.png" width="60%">
 
 </div>
 
