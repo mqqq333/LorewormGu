@@ -19,7 +19,8 @@
 
 ## 💡 Overview
 
-"人是万物之灵，蛊是天地真精" **LorewormGu** is a large-scale pre-trained language model project, built from scratch with tens of millions of parameters. It encompasses three key stages: **Pretraining, Supervised Fine-Tuning (SFT), and R1 Distillation Fine-Tuning.** The core goal of the project is to create an **efficient, reasoning-capable question-answering system** through innovative model architecture and optimized training processes.
+"人是万物之灵，蛊是天地真精" **
+LorewormGu** is a large-scale pre-trained language model project, built from scratch with tens of millions of parameters. It encompasses three key stages: **Pretraining, Supervised Fine-Tuning (SFT), and R1 Distillation Fine-Tuning.** The core goal of the project is to create an **efficient, reasoning-capable question-answering system** through innovative model architecture and optimized training processes.
 Much like the **Bookworm Gu from Gu Zhen Ren (a popular novel)**, which possesses the ability to record and store knowledge, LorewormGu is designed to effectively accumulate and process vast amounts of information. This allows the system to efficiently retrieve and reason about data, making it a powerful tool for various intelligent applications.
 Through meticulous training and fine-tuning, LorewormGu demonstrates the ability to handle complex multi-task learning, making it suitable for a wide range of AI applications, such as intelligent customer support, automated reasoning, and text generation.
 
@@ -48,7 +49,7 @@ Whether you're an aspiring AI researcher or a seasoned professional, **LorewormG
 
 - **[Hugging Face](https://huggingface.co)**: A platform for accessing pre-trained models, datasets, and tools for natural language processing tasks. We leverage Hugging Face's large model library for fine-tuning and training our models.
 - **[OpenAI](https://openai.com)**: Provides state-of-the-art language models and research papers that help in developing and enhancing large language models like **LorewormGu**.
-- **[WandB](https://www.wandb.com)**: We use **Weights and Biases** to track experiments, visualize metrics, and collaborate on model performance during training.
+- **[Wandb](https://www.wandb.com)**: We use **Weights and Biases** to track experiments, visualize metrics, and collaborate on model performance during training.
 - **[Google Cloud](https://cloud.google.com)**: Utilized for training infrastructure, providing powerful cloud computing resources like GPUs and TPUs for efficient model training and deployment.
 - **[ArXiv](https://arxiv.org)**: An open-access repository of academic papers in machine learning and artificial intelligence, offering important research and papers that guide the development of **LorewormGu**.
 
