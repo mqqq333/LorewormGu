@@ -2,7 +2,7 @@
 
 <div align="center">
 <a href="https://github.com/mqqq333/LorewormGu" target="blank">
-<img src="./img/orig_1920x1080.png" width="90" alt="Logo" />
+<img src="./img/trans_480x480.png" width="480"  alt="Logo" />
 </a>
 
 <h2> LorewormGu: From 0 to 1 on Large Language Models </h2>
@@ -19,7 +19,10 @@
 
 ## 💡 Overview
 
-**"人是万物之灵，蛊是天地真精"**
+<div align="center">
+  <strong>"人是万物之灵，蛊是天地真精"</strong>
+</div>
+
 
 **LorewormGu** is a large-scale pre-trained language model project, built from scratch with tens of millions of parameters. It encompasses three key stages: **Pretraining, Supervised Fine-Tuning (SFT), and R1 Distillation Fine-Tuning.** The core goal of the project is to create an **efficient, reasoning-capable question-answering system** through innovative model architecture and optimized training processes.
 Much like the **Bookworm Gu from Gu Zhen Ren (a popular novel)**, which possesses the ability to record and store knowledge, LorewormGu is designed to effectively accumulate and process vast amounts of information. This allows the system to efficiently retrieve and reason about data, making it a powerful tool for various intelligent applications.
@@ -61,7 +64,7 @@ To get a local copy of **LorewormGu** up and running, follow these steps.
 ### 🚀 Prerequisites
 
 - **Python** (v3.8 or higher) and **pip** (or **conda** for package management).
-- **PyTorch** or **TensorFlow** (depending on your preferred framework).
+- **PyTorch**
 - **CUDA** (for GPU acceleration, recommended for faster model training).
 
 ## 🛠️ Installation
