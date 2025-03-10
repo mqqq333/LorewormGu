@@ -23,7 +23,6 @@
   <strong>"人是万物之灵，蛊是天地真精"</strong>
 </div>
 
-
 **LorewormGu** is a large-scale pre-trained language model project, built from scratch with tens of millions of parameters. It encompasses three key stages: **Pretraining, Supervised Fine-Tuning (SFT), and R1 Distillation Fine-Tuning.** The core goal of the project is to create an **efficient, reasoning-capable question-answering system** through innovative model architecture and optimized training processes.
 Much like the **Bookworm Gu from Gu Zhen Ren (a popular novel)**, which possesses the ability to record and store knowledge, LorewormGu is designed to effectively accumulate and process vast amounts of information. This allows the system to efficiently retrieve and reason about data, making it a powerful tool for various intelligent applications.
 Through meticulous training and fine-tuning, LorewormGu demonstrates the ability to handle complex multi-task learning, making it suitable for a wide range of AI applications, such as intelligent customer support, automated reasoning, and text generation.
